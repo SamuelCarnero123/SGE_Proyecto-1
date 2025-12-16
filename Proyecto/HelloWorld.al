@@ -10,7 +10,6 @@ pageextension 50100 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('COMEDME LOS HUEVOS
-        ');
+        Message('COMEDME LOS HUEVOS 2 veces');
     end;
 }
